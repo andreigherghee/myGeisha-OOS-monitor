@@ -59,13 +59,13 @@
     "title": "Aperire - Day Dream Cover Cushion",
     "url": "https://mygeisha.ro/products/aperire-day-dream-cover-cushion"
   },
-  "9593445417281": {
-    "title": "my Geisha Oxygen Bubble Cleanser",
-    "url": "https://mygeisha.ro/products/my-geisha-oxyen-bubble-cleanser"
-  },
   "9593516360001": {
     "title": "my Geisha Oud - Huile De Parfum Premium",
     "url": "https://mygeisha.ro/products/my-geisha-oud-huile-de-parfum-premium"
+  },
+  "9593445417281": {
+    "title": "my Geisha Oxygen Bubble Cleanser",
+    "url": "https://mygeisha.ro/products/my-geisha-oxyen-bubble-cleanser"
   },
   "9593463013697": {
     "title": "my Geisha Foreplay - Rechargeable Pouch",
@@ -95,10 +95,6 @@
     "title": "Lord&Berry Absolute - Satin Lipstick",
     "url": "https://mygeisha.ro/products/lord-berry-absolute-satin-lipstick"
   },
-  "9593357173057": {
-    "title": "my Geisha Unstoppable - Rechargeable Pouch",
-    "url": "https://mygeisha.ro/products/my-geisha-unstoppable-rechargeable-pouch"
-  },
   "10168974770497": {
     "title": "my Geisha Cherry Yumm Rechargeable Pouch",
     "url": "https://mygeisha.ro/products/my-geisha-cherry-yumm-rechargeable-pouch"
@@ -119,25 +115,25 @@
     "title": "Hanskin Vitamin C Glow Capsule Lotion",
     "url": "https://mygeisha.ro/products/hanskin-vitamin-c-glow-capsule-lotion"
   },
-  "9593462227265": {
-    "title": "my Geisha Rehab - Rechargeable Pouch",
-    "url": "https://mygeisha.ro/products/my-geisha-rehab-rechargeable-pouch"
-  },
   "9769057452353": {
     "title": "Lord&Berry Timeless - Kissproof® Lipstick",
     "url": "https://mygeisha.ro/products/lord-berry-timeless-kissproof-lipstick"
+  },
+  "9593462227265": {
+    "title": "my Geisha Rehab - Rechargeable Pouch",
+    "url": "https://mygeisha.ro/products/my-geisha-rehab-rechargeable-pouch"
   },
   "9593362350401": {
     "title": "Hanskin Real Complexion Hyaluron Exfoliating AHA Treatment",
     "url": "https://mygeisha.ro/products/hanskin-real-complexion-hyaluron-exfoliating-aha-treatment"
   },
-  "9593300844865": {
-    "title": "Stara Mydlarnia Scottish Bath&Shower Gel For Men",
-    "url": "https://mygeisha.ro/products/stara-mydlarnia-scottish-bath-shower-gel-for-men"
-  },
   "9769077473601": {
     "title": "Lord&Berry Vogue - Matte Lipstick",
     "url": "https://mygeisha.ro/products/lord-berry-vogue-matte-lipstick"
+  },
+  "9593300844865": {
+    "title": "Stara Mydlarnia Scottish Bath&Shower Gel For Men",
+    "url": "https://mygeisha.ro/products/stara-mydlarnia-scottish-bath-shower-gel-for-men"
   },
   "9593286590785": {
     "title": "Hanskin Real Complexion Hyaluron Pink Capsule Serum",
@@ -146,10 +142,6 @@
   "9593492603201": {
     "title": "my Geisha Tasty Brown Sugar - Luxury (Rechargeable Crystal Bottle Huile De Parfum)",
     "url": "https://mygeisha.ro/products/my-geisha-tasty-brown-sugar-luxury-rechargeable-crystal-bottle-huile-de-parfum"
-  },
-  "10177209893185": {
-    "title": "my Geisha Unseen Rechargeable Pouch",
-    "url": "https://mygeisha.ro/products/my-geisha-unseen-rechargeable-pouch"
   },
   "9786174112065": {
     "title": "Lord&Berry Luminizer - Highlighter Stick",
@@ -183,13 +175,13 @@
     "title": "Lord&Berry Gran Finale Loose Setting Powder",
     "url": "https://mygeisha.ro/products/lord-berry-gran-finale-loose-setting-powder"
   },
-  "10217775366465": {
-    "title": "my Geisha Powder Puff Applicator",
-    "url": "https://mygeisha.ro/products/my-geisha-powder-puff-applicator"
-  },
   "10168977654081": {
     "title": "my Geisha Twin Flame Rechargeable Pouch",
     "url": "https://mygeisha.ro/products/my-geisha-twin-flame-rechargeable-pouch"
+  },
+  "10217775366465": {
+    "title": "my Geisha Powder Puff Applicator",
+    "url": "https://mygeisha.ro/products/my-geisha-powder-puff-applicator"
   },
   "9786220577089": {
     "title": "Lord&Berry Mono Sharpener",
@@ -199,13 +191,13 @@
     "title": "Stara Mydlarnia White Musk Body Butter",
     "url": "https://mygeisha.ro/products/stara-mydlarnia-white-musk-body-butter"
   },
-  "10066454741313": {
-    "title": "Aperire - Day Glow Soothing Balm Stick",
-    "url": "https://mygeisha.ro/products/aperire-day-glow-soothing-balm-stick"
-  },
   "9786196066625": {
     "title": "Lord&Berry Powder Bronzer",
     "url": "https://mygeisha.ro/products/lord-berry-powder-bronzer"
+  },
+  "10066454741313": {
+    "title": "Aperire - Day Glow Soothing Balm Stick",
+    "url": "https://mygeisha.ro/products/aperire-day-glow-soothing-balm-stick"
   },
   "9593556566337": {
     "title": "my Geisha Let’s Play Red Luxury Edition (Rechargeable Crystal Bottle Huile de Parfum)",
@@ -227,6 +219,10 @@
     "title": "my Geisha Let’s Play Red Rechargeable Pouch",
     "url": "https://mygeisha.ro/products/my-geisha-let-s-play-red-rechargeable-pouch"
   },
+  "9593726239041": {
+    "title": "my Geisha Troublemaker - Luxury Edition (Rechargeable Crystal Bottle Huile De Parfum)",
+    "url": "https://mygeisha.ro/products/my-geisha-troublemaker-luxury-edition-rechargeable-crystal-bottle-huile-de-parfum"
+  },
   "9991356907841": {
     "title": "Stara Mydlarnia NEROLI hand cream",
     "url": "https://mygeisha.ro/products/stara-mydlarnia-neroli-hand-cream"
@@ -235,13 +231,13 @@
     "title": "my Geisha Essential Beauty Routine Kit - Bundle",
     "url": "https://mygeisha.ro/products/my-geisha-essential-beauty-routine-kit-bundle"
   },
-  "9593726239041": {
-    "title": "my Geisha Troublemaker - Luxury Edition (Rechargeable Crystal Bottle Huile De Parfum)",
-    "url": "https://mygeisha.ro/products/my-geisha-troublemaker-luxury-edition-rechargeable-crystal-bottle-huile-de-parfum"
-  },
   "9593551552833": {
     "title": "my Geisha Ladies First - Luxury Edition (Rechargeable Crystal Bottle Huile De Parfum)",
     "url": "https://mygeisha.ro/products/my-geisha-ladies-first-luxury-edition-rechargeable-crystal-bottle-huile-de-parfum"
+  },
+  "9593613779265": {
+    "title": "my Geisha Oud - Luxury Edition (Rechargeable Crystal Bottle Huile De Parfum)",
+    "url": "https://mygeisha.ro/products/my-geisha-oud-luxury-edition-rechargeable-crystal-bottle-huile-de-parfum"
   },
   "9786230571329": {
     "title": "Lord&Berry Active SPA - Lip Balm and Primer",
@@ -250,10 +246,6 @@
   "10169028313409": {
     "title": "my Geisha Fire Mantra Rechargeable Pouch",
     "url": "https://mygeisha.ro/products/my-geisha-fire-mantra-rechargeable-pouch"
-  },
-  "9593613779265": {
-    "title": "my Geisha Oud - Luxury Edition (Rechargeable Crystal Bottle Huile De Parfum)",
-    "url": "https://mygeisha.ro/products/my-geisha-oud-luxury-edition-rechargeable-crystal-bottle-huile-de-parfum"
   },
   "9767364723009": {
     "title": "Lord&Berry Line/Shade Glam - Eye Pencil",
@@ -287,10 +279,6 @@
     "title": "Testament Collection Sang Noir",
     "url": "https://mygeisha.ro/products/testament-collection-sang-noir"
   },
-  "10264321032513": {
-    "title": "Testament Collection Royal Flush",
-    "url": "https://mygeisha.ro/products/testament-collection-royal-flush"
-  },
   "10379440750913": {
     "title": "my Geisha Everyday Glow Kit - Bundle",
     "url": "https://mygeisha.ro/products/my-geisha-everyday-glow-kit-bundle"
@@ -298,5 +286,9 @@
   "9935408955713": {
     "title": "Gallinée Hydrating Milk",
     "url": "https://mygeisha.ro/products/gallinee-hydrating-milk"
+  },
+  "10264321032513": {
+    "title": "Testament Collection Royal Flush",
+    "url": "https://mygeisha.ro/products/testament-collection-royal-flush"
   }
 }
