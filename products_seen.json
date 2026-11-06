@@ -55,6 +55,10 @@
     "title": "my Geisha Ladies First - Huile De Parfum Premium",
     "url": "https://mygeisha.ro/products/my-geisha-ladies-first-huile-de-parfum-premium"
   },
+  "10066526175553": {
+    "title": "Aperire - Day Dream Cover Cushion",
+    "url": "https://mygeisha.ro/products/aperire-day-dream-cover-cushion"
+  },
   "9593445417281": {
     "title": "my Geisha Oxygen Bubble Cleanser",
     "url": "https://mygeisha.ro/products/my-geisha-oxyen-bubble-cleanser"
@@ -87,10 +91,6 @@
     "title": "my Geisha D'Azure Slides",
     "url": "https://mygeisha.ro/products/dazure-slides-my-geisha"
   },
-  "10196204552513": {
-    "title": "Aperire BREEZE DEWY TINT",
-    "url": "https://mygeisha.ro/products/aperire-breeze-dewy-tint"
-  },
   "9769066889537": {
     "title": "Lord&Berry Absolute - Satin Lipstick",
     "url": "https://mygeisha.ro/products/lord-berry-absolute-satin-lipstick"
@@ -107,9 +107,17 @@
     "title": "Stara Mydlarnia Argan Shiny Body Cream",
     "url": "https://mygeisha.ro/products/stara-mydlarnia-argan-shiny-body-cream"
   },
+  "9620481573185": {
+    "title": "my Geisha Women's Trench Coat",
+    "url": "https://mygeisha.ro/products/women-s-trench-coat"
+  },
   "9767497138497": {
     "title": "Lord&Berry Seta - Eye Shadow Pressed Powder",
     "url": "https://mygeisha.ro/products/lord-berry-seta-eye-shadow-pressed-powder"
+  },
+  "9593361236289": {
+    "title": "Hanskin Vitamin C Glow Capsule Lotion",
+    "url": "https://mygeisha.ro/products/hanskin-vitamin-c-glow-capsule-lotion"
   },
   "9593462227265": {
     "title": "my Geisha Rehab - Rechargeable Pouch",
@@ -191,6 +199,14 @@
     "title": "Stara Mydlarnia White Musk Body Butter",
     "url": "https://mygeisha.ro/products/stara-mydlarnia-white-musk-body-butter"
   },
+  "10066454741313": {
+    "title": "Aperire - Day Glow Soothing Balm Stick",
+    "url": "https://mygeisha.ro/products/aperire-day-glow-soothing-balm-stick"
+  },
+  "9786196066625": {
+    "title": "Lord&Berry Powder Bronzer",
+    "url": "https://mygeisha.ro/products/lord-berry-powder-bronzer"
+  },
   "9593556566337": {
     "title": "my Geisha Let’s Play Red Luxury Edition (Rechargeable Crystal Bottle Huile de Parfum)",
     "url": "https://mygeisha.ro/products/my-geisha-let-s-play-red-luxury-edition-rechargeable-crystal-bottle-huile-de-parfum"
@@ -271,10 +287,6 @@
     "title": "Testament Collection Sang Noir",
     "url": "https://mygeisha.ro/products/testament-collection-sang-noir"
   },
-  "10264318476609": {
-    "title": "Testament Collection Pont Neuf",
-    "url": "https://mygeisha.ro/products/testament-collection-pont-neuf"
-  },
   "10264321032513": {
     "title": "Testament Collection Royal Flush",
     "url": "https://mygeisha.ro/products/testament-collection-royal-flush"
@@ -282,5 +294,9 @@
   "10379440750913": {
     "title": "my Geisha Everyday Glow Kit - Bundle",
     "url": "https://mygeisha.ro/products/my-geisha-everyday-glow-kit-bundle"
+  },
+  "9935408955713": {
+    "title": "Gallinée Hydrating Milk",
+    "url": "https://mygeisha.ro/products/gallinee-hydrating-milk"
   }
 }
